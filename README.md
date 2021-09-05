@@ -1,6 +1,6 @@
 # Домашнее задание №1 к лекции «Работа с HTML-формами»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/lk6aoptegjt4mt89?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ahj-hw-5-1-popovers)
+[![Build status](https://ci.appveyor.com/api/projects/status/452m8rtd08mofv25?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ahj-hw-5-1-popovers)
 
 ## Popovers
 
